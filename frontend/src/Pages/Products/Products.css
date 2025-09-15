@@ -1,0 +1,12 @@
+.products-page {
+  padding: 20px;
+  background: #f9fdf9; /* light clean pharmacy look */
+  min-height: 100vh;
+}
+
+.products-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #2c3e50; /* professional dark blue-gray */
+}

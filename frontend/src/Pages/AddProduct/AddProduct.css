@@ -1,0 +1,48 @@
+.add-product-container {
+  max-width: 400px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #f4fdfc; /* light pharmacy feel */
+  border: 1px solid #d1e7e0;
+  border-radius: 6px;
+}
+
+.add-product-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #2a9d8f; /* pharmacy green */
+  text-align: center;
+}
+
+.add-product-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.form-input {
+  padding: 8px;
+  border: 1px solid #b0c4c0;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.form-input:focus {
+  border-color: #2a9d8f;
+  outline: none;
+}
+
+.submit-btn {
+  background-color: #2a9d8f;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.submit-btn:hover {
+  background-color: #23867c;
+}
