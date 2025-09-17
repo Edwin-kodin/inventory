@@ -20,7 +20,6 @@
                     class="w-full mt-1 px-4 py-2 border rounded-lg focus:ring-2 focus:ring-blue-400 focus:outline-none border-gray-300" />
             </div>
 
-
             <div>
                 <label for="email" class="block text-sm font-medium text-gray-600">Email</label>
                 <input type="email" id="email" name="email" placeholder="Enter your email" required
